@@ -1,1 +1,4 @@
-echo "Hola Mundo mundial..."
+echo "Hola Mundo mundial... de todo el mundo :D ala madrexxx"
+
+
+pikachu!!!!!!
